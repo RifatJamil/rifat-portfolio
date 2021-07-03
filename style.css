@@ -12,7 +12,7 @@ h1{
 .blue-color{
     color: rgb(9, 255, 0);
 }
-section{
+.flex-container{
     display: flex;
     margin-bottom: 20px;
 }
